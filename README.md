@@ -1,2 +1,2 @@
 # ms-init-grpc
-initial graph service
+initial grpc service
